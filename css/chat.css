@@ -1,0 +1,13 @@
+.body-chat {
+  padding-bottom: 0;
+}
+
+.chat-header,
+.chat-header a{
+  background-color: #a1c0d6;
+  color: black;
+}
+
+.chat-header {
+  border-bottom: 1px solid rgba(0,0,0,0.1)
+}
